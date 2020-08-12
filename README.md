@@ -27,4 +27,12 @@
           * Parametreleri başlatma
      
           * Tensorflow'da ileri yayılma
+          
+          * Hesaplama maliyeti
+          
+          * Geriye doğru yayılma ve parametre güncellemeleri
+          
+          * Modeli oluşturmak ve eğitmek
+          
+          * Test
   
