@@ -34,5 +34,8 @@
           
           * Modeli oluşturmak ve eğitmek
           
+         ![index](https://user-images.githubusercontent.com/54184905/90011853-fc14e400-dcaa-11ea-87ed-4016643557b9.png)
+          
           * Test
-  
+ 
+* Kaynak : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Coursera) - https://www.coursera.org/learn/deep-neural-network
